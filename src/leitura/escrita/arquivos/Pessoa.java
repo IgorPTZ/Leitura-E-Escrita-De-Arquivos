@@ -40,4 +40,9 @@ public class Pessoa {
 	public void setIdade(Long idade) {
 		this.idade = idade;
 	}
+
+	@Override
+	public String toString() {
+		return "[nome=" + nome + ", email=" + email + ", idade=" + idade + "]";
+	}
 }

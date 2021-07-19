@@ -8,6 +8,10 @@ public class Pessoa {
 	
 	private Long idade;
 	
+	public Pessoa() {
+		
+	}
+	
 	public Pessoa (String nome, String email, Long idade) {
 		
 		this.nome = nome;

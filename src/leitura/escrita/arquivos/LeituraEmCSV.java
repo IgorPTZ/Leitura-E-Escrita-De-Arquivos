@@ -32,7 +32,10 @@ public class LeituraEmCSV {
 				}
 			}
 			
-			System.out.println(pessoas);
+			for(Pessoa pessoa : pessoas) {
+				
+				System.out.println(pessoa);
+			}
 		}
 		catch(Exception e) {
 			

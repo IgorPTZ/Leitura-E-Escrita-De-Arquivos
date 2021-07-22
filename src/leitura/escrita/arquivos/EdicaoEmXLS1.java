@@ -10,7 +10,7 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 
-public class EdicaoEmXLS {
+public class EdicaoEmXLS1 {
 	
 	public static void main(String[] args) {
 		

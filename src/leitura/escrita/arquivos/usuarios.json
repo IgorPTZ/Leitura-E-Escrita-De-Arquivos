@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Igor dos Santos Pereira",
+    "login": "rogi.pereira",
+    "senha": "teste321"
+  },
+  {
+    "nome": "Jose dos Santos Pereira",
+    "login": "jose.pereira",
+    "senha": "teste321"
+  },
+  {
+    "nome": "Maria dos Santos Pereira",
+    "login": "maria.pereira",
+    "senha": "teste321"
+  }
+]
